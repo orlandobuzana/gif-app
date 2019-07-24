@@ -15,9 +15,13 @@ li{
     
 }
 .gifs-display{
-    max-width: 1024px;
+    max-width: 1250px;
 }
 img{
     width: 250px;
     height: 200px;
+}
+footer{
+    font-family: 'Fascinate', cursive;
+
 }
